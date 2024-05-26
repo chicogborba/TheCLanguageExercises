@@ -1,0 +1,23 @@
+// Section 1.5.3
+// Exercise 1-10
+
+#include <stdio.h>
+
+int main() 
+{
+    int c;
+
+    while((c = getchar()) != EOF) {
+      if(c == '\t') {
+        printf("\\t");
+      } else if(c == '\b') {
+        printf("\\b");
+      } else if(c == '\\') {
+        printf("\\\\");
+      } else {
+        putchar(c);
+      }
+    }
+
+    return 0;
+}
