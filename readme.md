@@ -8,4 +8,4 @@ O propósito deste repositório é servir como um registro pessoal do meu progre
 
 ## Como usar
 
-Os exercícios estão organizados em pastas correspondentes a cada capítulo do livro. Cada arquivo contém um comentário na primeira linha indicando a seção em que o exercício foi proposto e explicado. O PDF do livro também está disponível no repositório para referência.# TheCLanguageExercises
+Os exercícios estão organizados em pastas correspondentes a cada capítulo do livro. Cada arquivo contém um comentário na primeira linha indicando a seção em que o exercício foi proposto e explicado. O PDF do livro também está disponível no repositório para referência.
